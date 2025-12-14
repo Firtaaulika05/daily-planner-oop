@@ -51,11 +51,9 @@ python main.py
 
 ---
 
-## 📄 Dokumentasi
+## 📸 Tampilan Aplikasi
 
-Dokumentasi aplikasi tersedia dalam bentuk PDF:
-
-**Dokumentasi_Aplikasi_Daily_Planner.pdf**
+![Tampilan Utama Aplikasi](Tampilan Aplikasi.jpg)
 
 ---
 
@@ -63,3 +61,4 @@ Dokumentasi aplikasi tersedia dalam bentuk PDF:
 
 * **Nama** : Firta
 * **Username GitHub** : Firtaaulika05
+
