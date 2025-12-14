@@ -53,7 +53,7 @@ python main.py
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Utama Aplikasi](Tampilan Aplikasi.jpg)
+![Tampilan Utama Aplikasi](Tampilan_Aplikasi.jpg)
 
 ---
 
@@ -61,4 +61,5 @@ python main.py
 
 * **Nama** : Firta
 * **Username GitHub** : Firtaaulika05
+
 
